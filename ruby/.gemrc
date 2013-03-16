@@ -8,4 +8,8 @@
 - http://gemcutter.org
 - http://gems.rubyforge.org/
 - http://gems.github.com/
+- https://rubygems.org
 
+install: --no-rdoc --no-ri
+update: --no-rdoc --no-ri
+search: --remote
