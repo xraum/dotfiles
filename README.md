@@ -1,4 +1,4 @@
-dotfiles
+.dotfiles
 ========
 
-My .dotfiles
+My personal .dotfiles
