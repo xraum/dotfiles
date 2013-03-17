@@ -27,7 +27,7 @@ $RECYCLE.BIN/
 # SASS Ignores - "Sassy CSS" http://sass-lang.com/
 *.sass-cache
 
-#Jekyll
+# Jekyll
 _site/
 
 # LaTeX
@@ -73,11 +73,9 @@ lib-cov
 *.out
 *.pid
 *.gz
-
 pids
 logs
 results
-
 npm-debug.log
 node_modules
 
